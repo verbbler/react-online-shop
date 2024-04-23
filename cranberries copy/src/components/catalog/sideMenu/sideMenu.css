@@ -1,0 +1,32 @@
+.sideMenu{
+    display: flex;
+    flex-direction: column;
+    min-width: 23vw;
+    max-width: 23vw;
+    min-height: 89vh;
+    max-height: 89vh;
+    /* padding: 0vh 0vw 0vh 5vw; */
+    border-right: 1px solid lightgray;
+    flex: 0.5;
+}
+
+.menu {
+    padding: 2vh 0vw 2vh 5vw; 
+    display: flex;
+    flex-direction: row;
+}
+
+/* .menu.sale {
+    background-color: rgba(192, 192, 192, 0.2);
+} */
+
+.menuText {
+    min-width: 13vw;
+    max-width: 13vw;
+    padding-left: 1vw;
+}
+
+.menu img {
+    vertical-align: middle;
+    height: 2vh;
+}

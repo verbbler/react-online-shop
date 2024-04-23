@@ -1,0 +1,32 @@
+.item {
+    min-width: 13vw;
+    max-width: 13vw;
+    min-height: 18vw;
+    max-height: 18vw;
+    margin: 1vw;
+}    
+
+.picture {
+    width: 13vw;
+    height: 13vw;
+    background-color: lightgray;
+    border-radius: 1rem;
+}
+
+.name {
+    padding-top: 1vh;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+}
+
+.img {
+    max-width: 1rem;    
+    padding-left: 4vw;
+}
+
+.points {
+    text-align: end;
+}

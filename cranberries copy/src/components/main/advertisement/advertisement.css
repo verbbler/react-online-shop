@@ -1,0 +1,14 @@
+.adSection {
+    flex-direction: row;
+    display: flex;
+    margin: 0vh 4vw 0vh 4vw;
+}
+
+.ad {
+    width: 40vw;
+    height: 30vh;
+    background-color: lightgray;
+    border-radius: 1rem;
+    margin: 1vw;
+    flex-direction: row;
+}

@@ -1,0 +1,51 @@
+.favouritesItem {
+    min-width: 13.3vw;
+    max-width: 13.3vw;
+    min-height: 19vw;
+    max-height: 19vw;
+    margin: 1vw;
+    flex: 1;
+}
+
+.favouritesPicture {
+    width: 13.3vw;
+    height: 13vw;
+    background-color: lightgray;
+    border-radius: 1rem;
+}
+
+.favouritesName {
+    padding-top: 0.5vh;
+}
+
+.favouritesRow {
+    display: flex;
+    flex-direction: row;
+    padding-top: 0.5vh;
+}
+
+.favouritesRating {
+    display: flex;
+    flex-direction: row;
+}
+
+.favouritesImg {
+    max-width: 1rem;    
+    padding-left: 4vw;
+}
+
+.favouritesPoints {
+    text-align: end;
+}
+
+.favouritesToCart {
+    margin-top: 1vh;
+    background-color: #B4101B;
+    min-width: 6vw;
+    max-width: 6vw;
+    min-height: 4vh;
+    max-height: 4vh;
+    border-radius: 1vh;
+    color: white;
+    text-align: center;
+}

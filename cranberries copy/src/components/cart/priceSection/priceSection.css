@@ -1,0 +1,38 @@
+.column.priceSection {
+    margin: 1vh 5vw 1vh 1vw;
+    min-width: 20vw;
+    max-width: 20vw;
+}
+
+.row.priceSection {
+    min-height: 4vh;
+    max-height: 4vh;
+    padding-bottom: 2vh;
+}
+
+.priceSectionAmount {
+    text-align: end;
+}
+
+.promocode {
+    border: 2px solid lightgray;
+    border-radius: 1.5vh;
+    min-height: 4vh;
+    max-height: 4vh;
+    text-align: center;
+    margin-bottom: 3vh;
+    padding: 0.5vh 0vw 0.5vh 0vw;
+    outline: none;
+}
+
+.priceSectionPrice {
+    text-align: end;
+}
+
+.checkout {
+    min-height: 5.5vh;
+    max-height: 5.5vh;
+    border-radius: 2vh;
+    background-color: #B4101B;
+    color: white;
+}

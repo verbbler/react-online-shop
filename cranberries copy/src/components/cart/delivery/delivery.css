@@ -1,0 +1,96 @@
+.deliveryColumn {
+    margin: 1vh 1vw 1vh 5vw;
+    padding: 1vw 1vw 1vw 1vw;
+    background-color: #F2FFF3;
+    border-radius: 2vh;
+}
+
+.box {
+    min-width: 14vw;
+    max-width: 14vw;
+    min-height: 7vw;
+    max-height: 7vw;
+    border: 1px solid;
+    border-radius: 1.5vh;
+    padding: 1vw;
+    margin: 1vw;
+}
+
+.deliveryAdress.box {
+    border-color: #334E34;
+}
+
+.adress {
+    padding: 1vh 0vw 1vh 0vw;
+}
+
+input.deliveryCheckbox {
+    border-radius: 50rem;
+    border-color: #334E34;
+    accent-color: #334E34;
+    background-color: #F2FFF3;
+    min-width: 2vw;
+    max-width: 2vw;
+    min-height: 2vw;
+    max-height: 2vw;
+    margin: 0vh 0vw 0vh 12vw;
+
+}
+
+.deliveryRecipient {
+    margin: 1vw;
+    min-width: 11vw;
+    max-width: 11vw;
+}
+
+.deliveryName img {
+    width: 1.25vw;
+    vertical-align: middle;
+    padding-left: 2.6vw;
+}
+
+.deliveryAddAdress.box {
+    border-color: lightgray;
+}
+
+.addAdress {
+    min-height: 5vw;
+    max-height: 5vw;
+    color: gray;
+}
+
+.deliveryAddAdress img {
+    padding-left: 12vw;
+    width: 2vw;
+}
+
+.deliveryName{
+    padding-bottom: 0.5vh;
+    border-bottom: 1px solid #334E34;
+}
+
+.recipientName {
+    padding-top: 0.5vh;
+}
+
+.recipientPhone {
+    padding: 1vh 0vw 1vh 0vw;
+}
+
+.firstCard {
+    min-width: 18vw;
+    max-width: 18vw;
+    margin: 1vw;
+}
+
+.secondCard {
+    min-width: 10vw;
+    max-width: 10vw;
+    margin: 1vw;
+}
+
+.addCard {
+    min-width: 10vw;
+    max-width: 10vw;
+    margin: 1vw;
+}

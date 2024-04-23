@@ -1,0 +1,46 @@
+.menuRow {
+    border-bottom: 1px solid lightgray;
+    margin-top: 2vh;
+}
+
+.description {
+    border-right: 1px solid lightgray;
+    padding: 0vh 3vw 0vh 5vw;
+    min-width: 12rem;
+    max-width: 12rem;
+    background-color: white;
+    text-align: left;
+    font-size: 16px;
+    color: gray;
+}
+
+.review {
+    border-right: 1px solid lightgray;
+    padding: 0vh 3vw 0vh 3vw;
+    min-width: 9rem;
+    max-width: 9rem;
+    background-color: white;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.questions {
+    border-right: 1px solid lightgray;
+    padding: 0vh 3vw 0vh 3vw;
+    min-width: 9rem;
+    max-width: 9rem;
+    background-color: white;
+    text-align: center;
+    font-size: 16px;
+    color: gray;
+}
+
+.span {
+    margin-left: 5vw;
+    margin-top: 2vh;
+    min-width: 68vw;
+    max-width: 68vw;
+    min-height: 15vh;
+    max-height: 15vh;
+}

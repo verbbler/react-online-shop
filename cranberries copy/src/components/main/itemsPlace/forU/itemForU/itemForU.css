@@ -1,0 +1,32 @@
+.itemForU {
+    min-width: 12vw;
+    max-width: 12vw;
+    min-height: 15vw;
+    max-height: 15vw;
+    margin: 1rem;
+    flex: 1;
+}
+
+.itemForUName {
+    padding-top: 1vh;
+}
+
+.itemForURow {
+    display: flex !important;
+    flex-direction: row !important;
+    padding-top: 1vh;
+}
+
+.itemForURating {
+    display: flex;
+    flex-direction: row;
+}
+
+.itemForUImg {
+    max-width: 1rem;    
+    padding-left: 4vw;
+}
+
+.itemForUPoints {
+    text-align: end;
+}

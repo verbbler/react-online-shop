@@ -1,0 +1,14 @@
+.saleSection {
+    padding: 2vh 5vw 0vh 1vw;
+}
+
+.Sale {
+    display: flex;
+    flex-direction: row;
+    font-size: 26px;
+    padding-bottom: 6vh;
+}
+
+.column>div {
+    padding-bottom: 1vh;
+}
